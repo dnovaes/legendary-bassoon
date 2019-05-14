@@ -29,7 +29,7 @@ This is best team in the world you could ever find
 - Hamilton
 
 # Stacks
-- [stacks](stacks.md)
+- [Stack Info](stacks.md)
 
 # Reuniões
 
